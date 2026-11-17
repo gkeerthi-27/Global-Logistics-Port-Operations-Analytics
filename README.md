@@ -106,7 +106,8 @@ The project demonstrates how data analytics can help logistics operations:
 
 ## 📸 Dashboard Previews
 
-*Power BI and Tableau dashboard screenshots will be added here.*
+<img width="1438" height="805" alt="image" src="https://github.com/user-attachments/assets/5bcd32fb-6c10-4273-b53a-c29c89624132" />
+
 
 ## 👩‍💻 Author
 
